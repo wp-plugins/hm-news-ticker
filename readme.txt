@@ -30,7 +30,7 @@ See below for the custom options:
 
 <strong>General Ticker</strong>
 
-<code>[ticker_list id="1"]</code>
+<pre>[ticker_list id="1"]</pre>
 
 <strong>Category</strong>
 
