@@ -65,7 +65,7 @@ Note: If you want to change your different parameters , you must change your <co
 == Screenshots ==
 
 1.Installed in practice server.
-2. Here is different types of parameter added.
+
 
 == Changelog ==
 
