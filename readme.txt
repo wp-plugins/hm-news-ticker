@@ -40,27 +40,26 @@ See below for the custom options:
 
 <strong>Speed</strong>
 
-	<pre>[ticker_list id="3" speed=".03"]</pre>
+<pre> [ticker_list id="3" speed=".03"] </pre>
 
 <strong>Title</strong>
 
-	<pre>[ticker_list id="4" title="Breaking"]</pre>
+<pre>[ticker_list id="4" title="Breaking"]</pre>
 
 <strong>Color</strong>
 
-	<pre>[ticker_list id="5" color="#F075C9"]</pre>
+<pre>[ticker_list id="5" color="#F075C9"]</pre>
 
 <strong>Background</strong>
 
-	<pre>[ticker_list id="6" bg="#2B3039"]</pre>
+<pre>[ticker_list id="6" bg="#2B3039"]</pre>
 
 <strong>Quantity</strong>
-
-	<pre>[ticker_list id="7" quantity="1"]</pre>
+<pre>[ticker_list id="7" quantity="1"]</pre>
 
 <strong>For controls</strong>
 
-	<pre>[ticker_list id="8" control="false"]</pre>
+<pre>[ticker_list id="8" control="false"]</pre>
 
 
 == Screenshots ==
