@@ -59,7 +59,7 @@ See below for the custom options:
 
 <pre>[ticker_list id="8" control="false"]</pre>
 
-Note: If you want to change your different parameters , you must change your <pre>id</pre> .
+Note: If you want to change your different parameters , you must change your <code>id</code> .
 
 
 == Screenshots ==
