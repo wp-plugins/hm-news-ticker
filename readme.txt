@@ -30,37 +30,37 @@ See below for the custom options:
 
 <strong>General Ticker</strong>
 
-[ticker_list id="1"]
+	<pre>[ticker_list id="1"]</pre>
 
 <strong>Category</strong>
 
-[ticker_list id="2" category="category_slug"]
+	<pre>[ticker_list id="2" category="category_slug"]</pre>
 
 
 
 <strong>Speed</strong>
 
-[ticker_list id="3" speed=".03"]
+	<pre>[ticker_list id="3" speed=".03"]</pre>
 
 <strong>Title</strong>
 
-[ticker_list id="4" title="Breaking"]
+	<pre>[ticker_list id="4" title="Breaking"]</pre>
 
 <strong>Color</strong>
 
-[ticker_list id="5" color="#F075C9"]
+	<pre>[ticker_list id="5" color="#F075C9"]</pre>
 
 <strong>Background</strong>
 
-[ticker_list id="6" bg="#2B3039"]
+	<pre>[ticker_list id="6" bg="#2B3039"]</pre>
 
 <strong>Quantity</strong>
 
-[ticker_list id="7" quantity="1"]
+	<pre>[ticker_list id="7" quantity="1"]</pre>
 
 <strong>For controls</strong>
 
-[ticker_list id="8" control="false"]
+	<pre>[ticker_list id="8" control="false"]</pre>
 
 
 == Screenshots ==
