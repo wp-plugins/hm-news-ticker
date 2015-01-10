@@ -30,11 +30,11 @@ See below for the custom options:
 
 <strong>General Ticker</strong>
 
-	<pre>[ticker_list id="1"]</pre>
+<code>[ticker_list id="1"]</code>
 
 <strong>Category</strong>
 
-	<pre>[ticker_list id="2" category="category_slug"]</pre>
+<pre>[ticker_list id="2" category="category_slug"]</pre>
 
 
 
